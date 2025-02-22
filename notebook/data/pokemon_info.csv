@@ -1,0 +1,1305 @@
+name,height,weight,types,hp,attack,defense,special-attack,special-defense,speed
+bulbasaur,7,69,"grass, poison",45,49,49,65,65,45
+ivysaur,10,130,"grass, poison",60,62,63,80,80,60
+venusaur,20,1000,"grass, poison",80,82,83,100,100,80
+charmander,6,85,fire,39,52,43,60,50,65
+charmeleon,11,190,fire,58,64,58,80,65,80
+charizard,17,905,"fire, flying",78,84,78,109,85,100
+squirtle,5,90,water,44,48,65,50,64,43
+wartortle,10,225,water,59,63,80,65,80,58
+blastoise,16,855,water,79,83,100,85,105,78
+caterpie,3,29,bug,45,30,35,20,20,45
+metapod,7,99,bug,50,20,55,25,25,30
+butterfree,11,320,"bug, flying",60,45,50,90,80,70
+weedle,3,32,"bug, poison",40,35,30,20,20,50
+kakuna,6,100,"bug, poison",45,25,50,25,25,35
+beedrill,10,295,"bug, poison",65,90,40,45,80,75
+pidgey,3,18,"normal, flying",40,45,40,35,35,56
+pidgeotto,11,300,"normal, flying",63,60,55,50,50,71
+pidgeot,15,395,"normal, flying",83,80,75,70,70,101
+rattata,3,35,normal,30,56,35,25,35,72
+raticate,7,185,normal,55,81,60,50,70,97
+spearow,3,20,"normal, flying",40,60,30,31,31,70
+fearow,12,380,"normal, flying",65,90,65,61,61,100
+ekans,20,69,poison,35,60,44,40,54,55
+arbok,35,650,poison,60,95,69,65,79,80
+pikachu,4,60,electric,35,55,40,50,50,90
+raichu,8,300,electric,60,90,55,90,80,110
+sandshrew,6,120,ground,50,75,85,20,30,40
+sandslash,10,295,ground,75,100,110,45,55,65
+nidoran-f,4,70,poison,55,47,52,40,40,41
+nidorina,8,200,poison,70,62,67,55,55,56
+nidoqueen,13,600,"poison, ground",90,92,87,75,85,76
+nidoran-m,5,90,poison,46,57,40,40,40,50
+nidorino,9,195,poison,61,72,57,55,55,65
+nidoking,14,620,"poison, ground",81,102,77,85,75,85
+clefairy,6,75,fairy,70,45,48,60,65,35
+clefable,13,400,fairy,95,70,73,95,90,60
+vulpix,6,99,fire,38,41,40,50,65,65
+ninetales,11,199,fire,73,76,75,81,100,100
+jigglypuff,5,55,"normal, fairy",115,45,20,45,25,20
+wigglytuff,10,120,"normal, fairy",140,70,45,85,50,45
+zubat,8,75,"poison, flying",40,45,35,30,40,55
+golbat,16,550,"poison, flying",75,80,70,65,75,90
+oddish,5,54,"grass, poison",45,50,55,75,65,30
+gloom,8,86,"grass, poison",60,65,70,85,75,40
+vileplume,12,186,"grass, poison",75,80,85,110,90,50
+paras,3,54,"bug, grass",35,70,55,45,55,25
+parasect,10,295,"bug, grass",60,95,80,60,80,30
+venonat,10,300,"bug, poison",60,55,50,40,55,45
+venomoth,15,125,"bug, poison",70,65,60,90,75,90
+diglett,2,8,ground,10,55,25,35,45,95
+dugtrio,7,333,ground,35,100,50,50,70,120
+meowth,4,42,normal,40,45,35,40,40,90
+persian,10,320,normal,65,70,60,65,65,115
+psyduck,8,196,water,50,52,48,65,50,55
+golduck,17,766,water,80,82,78,95,80,85
+mankey,5,280,fighting,40,80,35,35,45,70
+primeape,10,320,fighting,65,105,60,60,70,95
+growlithe,7,190,fire,55,70,45,70,50,60
+arcanine,19,1550,fire,90,110,80,100,80,95
+poliwag,6,124,water,40,50,40,40,40,90
+poliwhirl,10,200,water,65,65,65,50,50,90
+poliwrath,13,540,"water, fighting",90,95,95,70,90,70
+abra,9,195,psychic,25,20,15,105,55,90
+kadabra,13,565,psychic,40,35,30,120,70,105
+alakazam,15,480,psychic,55,50,45,135,95,120
+machop,8,195,fighting,70,80,50,35,35,35
+machoke,15,705,fighting,80,100,70,50,60,45
+machamp,16,1300,fighting,90,130,80,65,85,55
+bellsprout,7,40,"grass, poison",50,75,35,70,30,40
+weepinbell,10,64,"grass, poison",65,90,50,85,45,55
+victreebel,17,155,"grass, poison",80,105,65,100,70,70
+tentacool,9,455,"water, poison",40,40,35,50,100,70
+tentacruel,16,550,"water, poison",80,70,65,80,120,100
+geodude,4,200,"rock, ground",40,80,100,30,30,20
+graveler,10,1050,"rock, ground",55,95,115,45,45,35
+golem,14,3000,"rock, ground",80,120,130,55,65,45
+ponyta,10,300,fire,50,85,55,65,65,90
+rapidash,17,950,fire,65,100,70,80,80,105
+slowpoke,12,360,"water, psychic",90,65,65,40,40,15
+slowbro,16,785,"water, psychic",95,75,110,100,80,30
+magnemite,3,60,"electric, steel",25,35,70,95,55,45
+magneton,10,600,"electric, steel",50,60,95,120,70,70
+farfetchd,8,150,"normal, flying",52,90,55,58,62,60
+doduo,14,392,"normal, flying",35,85,45,35,35,75
+dodrio,18,852,"normal, flying",60,110,70,60,60,110
+seel,11,900,water,65,45,55,45,70,45
+dewgong,17,1200,"water, ice",90,70,80,70,95,70
+grimer,9,300,poison,80,80,50,40,50,25
+muk,12,300,poison,105,105,75,65,100,50
+shellder,3,40,water,30,65,100,45,25,40
+cloyster,15,1325,"water, ice",50,95,180,85,45,70
+gastly,13,1,"ghost, poison",30,35,30,100,35,80
+haunter,16,1,"ghost, poison",45,50,45,115,55,95
+gengar,15,405,"ghost, poison",60,65,60,130,75,110
+onix,88,2100,"rock, ground",35,45,160,30,45,70
+drowzee,10,324,psychic,60,48,45,43,90,42
+hypno,16,756,psychic,85,73,70,73,115,67
+krabby,4,65,water,30,105,90,25,25,50
+kingler,13,600,water,55,130,115,50,50,75
+voltorb,5,104,electric,40,30,50,55,55,100
+electrode,12,666,electric,60,50,70,80,80,150
+exeggcute,4,25,"grass, psychic",60,40,80,60,45,40
+exeggutor,20,1200,"grass, psychic",95,95,85,125,75,55
+cubone,4,65,ground,50,50,95,40,50,35
+marowak,10,450,ground,60,80,110,50,80,45
+hitmonlee,15,498,fighting,50,120,53,35,110,87
+hitmonchan,14,502,fighting,50,105,79,35,110,76
+lickitung,12,655,normal,90,55,75,60,75,30
+koffing,6,10,poison,40,65,95,60,45,35
+weezing,12,95,poison,65,90,120,85,70,60
+rhyhorn,10,1150,"ground, rock",80,85,95,30,30,25
+rhydon,19,1200,"ground, rock",105,130,120,45,45,40
+chansey,11,346,normal,250,5,5,35,105,50
+tangela,10,350,grass,65,55,115,100,40,60
+kangaskhan,22,800,normal,105,95,80,40,80,90
+horsea,4,80,water,30,40,70,70,25,60
+seadra,12,250,water,55,65,95,95,45,85
+goldeen,6,150,water,45,67,60,35,50,63
+seaking,13,390,water,80,92,65,65,80,68
+staryu,8,345,water,30,45,55,70,55,85
+starmie,11,800,"water, psychic",60,75,85,100,85,115
+mr-mime,13,545,"psychic, fairy",40,45,65,100,120,90
+scyther,15,560,"bug, flying",70,110,80,55,80,105
+jynx,14,406,"ice, psychic",65,50,35,115,95,95
+electabuzz,11,300,electric,65,83,57,95,85,105
+magmar,13,445,fire,65,95,57,100,85,93
+pinsir,15,550,bug,65,125,100,55,70,85
+tauros,14,884,normal,75,100,95,40,70,110
+magikarp,9,100,water,20,10,55,15,20,80
+gyarados,65,2350,"water, flying",95,125,79,60,100,81
+lapras,25,2200,"water, ice",130,85,80,85,95,60
+ditto,3,40,normal,48,48,48,48,48,48
+eevee,3,65,normal,55,55,50,45,65,55
+vaporeon,10,290,water,130,65,60,110,95,65
+jolteon,8,245,electric,65,65,60,110,95,130
+flareon,9,250,fire,65,130,60,95,110,65
+porygon,8,365,normal,65,60,70,85,75,40
+omanyte,4,75,"rock, water",35,40,100,90,55,35
+omastar,10,350,"rock, water",70,60,125,115,70,55
+kabuto,5,115,"rock, water",30,80,90,55,45,55
+kabutops,13,405,"rock, water",60,115,105,65,70,80
+aerodactyl,18,590,"rock, flying",80,105,65,60,75,130
+snorlax,21,4600,normal,160,110,65,65,110,30
+articuno,17,554,"ice, flying",90,85,100,95,125,85
+zapdos,16,526,"electric, flying",90,90,85,125,90,100
+moltres,20,600,"fire, flying",90,100,90,125,85,90
+dratini,18,33,dragon,41,64,45,50,50,50
+dragonair,40,165,dragon,61,84,65,70,70,70
+dragonite,22,2100,"dragon, flying",91,134,95,100,100,80
+mewtwo,20,1220,psychic,106,110,90,154,90,130
+mew,4,40,psychic,100,100,100,100,100,100
+chikorita,9,64,grass,45,49,65,49,65,45
+bayleef,12,158,grass,60,62,80,63,80,60
+meganium,18,1005,grass,80,82,100,83,100,80
+cyndaquil,5,79,fire,39,52,43,60,50,65
+quilava,9,190,fire,58,64,58,80,65,80
+typhlosion,17,795,fire,78,84,78,109,85,100
+totodile,6,95,water,50,65,64,44,48,43
+croconaw,11,250,water,65,80,80,59,63,58
+feraligatr,23,888,water,85,105,100,79,83,78
+sentret,8,60,normal,35,46,34,35,45,20
+furret,18,325,normal,85,76,64,45,55,90
+hoothoot,7,212,"normal, flying",60,30,30,36,56,50
+noctowl,16,408,"normal, flying",100,50,50,86,96,70
+ledyba,10,108,"bug, flying",40,20,30,40,80,55
+ledian,14,356,"bug, flying",55,35,50,55,110,85
+spinarak,5,85,"bug, poison",40,60,40,40,40,30
+ariados,11,335,"bug, poison",70,90,70,60,70,40
+crobat,18,750,"poison, flying",85,90,80,70,80,130
+chinchou,5,120,"water, electric",75,38,38,56,56,67
+lanturn,12,225,"water, electric",125,58,58,76,76,67
+pichu,3,20,electric,20,40,15,35,35,60
+cleffa,3,30,fairy,50,25,28,45,55,15
+igglybuff,3,10,"normal, fairy",90,30,15,40,20,15
+togepi,3,15,fairy,35,20,65,40,65,20
+togetic,6,32,"fairy, flying",55,40,85,80,105,40
+natu,2,20,"psychic, flying",40,50,45,70,45,70
+xatu,15,150,"psychic, flying",65,75,70,95,70,95
+mareep,6,78,electric,55,40,40,65,45,35
+flaaffy,8,133,electric,70,55,55,80,60,45
+ampharos,14,615,electric,90,75,85,115,90,55
+bellossom,4,58,grass,75,80,95,90,100,50
+marill,4,85,"water, fairy",70,20,50,20,50,40
+azumarill,8,285,"water, fairy",100,50,80,60,80,50
+sudowoodo,12,380,rock,70,100,115,30,65,30
+politoed,11,339,water,90,75,75,90,100,70
+hoppip,4,5,"grass, flying",35,35,40,35,55,50
+skiploom,6,10,"grass, flying",55,45,50,45,65,80
+jumpluff,8,30,"grass, flying",75,55,70,55,95,110
+aipom,8,115,normal,55,70,55,40,55,85
+sunkern,3,18,grass,30,30,30,30,30,30
+sunflora,8,85,grass,75,75,55,105,85,30
+yanma,12,380,"bug, flying",65,65,45,75,45,95
+wooper,4,85,"water, ground",55,45,45,25,25,15
+quagsire,14,750,"water, ground",95,85,85,65,65,35
+espeon,9,265,psychic,65,65,60,130,95,110
+umbreon,10,270,dark,95,65,110,60,130,65
+murkrow,5,21,"dark, flying",60,85,42,85,42,91
+slowking,20,795,"water, psychic",95,75,80,100,110,30
+misdreavus,7,10,ghost,60,60,60,85,85,85
+unown,5,50,psychic,48,72,48,72,48,48
+wobbuffet,13,285,psychic,190,33,58,33,58,33
+girafarig,15,415,"normal, psychic",70,80,65,90,65,85
+pineco,6,72,bug,50,65,90,35,35,15
+forretress,12,1258,"bug, steel",75,90,140,60,60,40
+dunsparce,15,140,normal,100,70,70,65,65,45
+gligar,11,648,"ground, flying",65,75,105,35,65,85
+steelix,92,4000,"steel, ground",75,85,200,55,65,30
+snubbull,6,78,fairy,60,80,50,40,40,30
+granbull,14,487,fairy,90,120,75,60,60,45
+qwilfish,5,39,"water, poison",65,95,85,55,55,85
+scizor,18,1180,"bug, steel",70,130,100,55,80,65
+shuckle,6,205,"bug, rock",20,10,230,10,230,5
+heracross,15,540,"bug, fighting",80,125,75,40,95,85
+sneasel,9,280,"dark, ice",55,95,55,35,75,115
+teddiursa,6,88,normal,60,80,50,50,50,40
+ursaring,18,1258,normal,90,130,75,75,75,55
+slugma,7,350,fire,40,40,40,70,40,20
+magcargo,8,550,"fire, rock",60,50,120,90,80,30
+swinub,4,65,"ice, ground",50,50,40,30,30,50
+piloswine,11,558,"ice, ground",100,100,80,60,60,50
+corsola,6,50,"water, rock",65,55,95,65,95,35
+remoraid,6,120,water,35,65,35,65,35,65
+octillery,9,285,water,75,105,75,105,75,45
+delibird,9,160,"ice, flying",45,55,45,65,45,75
+mantine,21,2200,"water, flying",85,40,70,80,140,70
+skarmory,17,505,"steel, flying",65,80,140,40,70,70
+houndour,6,108,"dark, fire",45,60,30,80,50,65
+houndoom,14,350,"dark, fire",75,90,50,110,80,95
+kingdra,18,1520,"water, dragon",75,95,95,95,95,85
+phanpy,5,335,ground,90,60,60,40,40,40
+donphan,11,1200,ground,90,120,120,60,60,50
+porygon2,6,325,normal,85,80,90,105,95,60
+stantler,14,712,normal,73,95,62,85,65,85
+smeargle,12,580,normal,55,20,35,20,45,75
+tyrogue,7,210,fighting,35,35,35,35,35,35
+hitmontop,14,480,fighting,50,95,95,35,110,70
+smoochum,4,60,"ice, psychic",45,30,15,85,65,65
+elekid,6,235,electric,45,63,37,65,55,95
+magby,7,214,fire,45,75,37,70,55,83
+miltank,12,755,normal,95,80,105,40,70,100
+blissey,15,468,normal,255,10,10,75,135,55
+raikou,19,1780,electric,90,85,75,115,100,115
+entei,21,1980,fire,115,115,85,90,75,100
+suicune,20,1870,water,100,75,115,90,115,85
+larvitar,6,720,"rock, ground",50,64,50,45,50,41
+pupitar,12,1520,"rock, ground",70,84,70,65,70,51
+tyranitar,20,2020,"rock, dark",100,134,110,95,100,61
+lugia,52,2160,"psychic, flying",106,90,130,90,154,110
+ho-oh,38,1990,"fire, flying",106,130,90,110,154,90
+celebi,6,50,"psychic, grass",100,100,100,100,100,100
+treecko,5,50,grass,40,45,35,65,55,70
+grovyle,9,216,grass,50,65,45,85,65,95
+sceptile,17,522,grass,70,85,65,105,85,120
+torchic,4,25,fire,45,60,40,70,50,45
+combusken,9,195,"fire, fighting",60,85,60,85,60,55
+blaziken,19,520,"fire, fighting",80,120,70,110,70,80
+mudkip,4,76,water,50,70,50,50,50,40
+marshtomp,7,280,"water, ground",70,85,70,60,70,50
+swampert,15,819,"water, ground",100,110,90,85,90,60
+poochyena,5,136,dark,35,55,35,30,30,35
+mightyena,10,370,dark,70,90,70,60,60,70
+zigzagoon,4,175,normal,38,30,41,30,41,60
+linoone,5,325,normal,78,70,61,50,61,100
+wurmple,3,36,bug,45,45,35,20,30,20
+silcoon,6,100,bug,50,35,55,25,25,15
+beautifly,10,284,"bug, flying",60,70,50,100,50,65
+cascoon,7,115,bug,50,35,55,25,25,15
+dustox,12,316,"bug, poison",60,50,70,50,90,65
+lotad,5,26,"water, grass",40,30,30,40,50,30
+lombre,12,325,"water, grass",60,50,50,60,70,50
+ludicolo,15,550,"water, grass",80,70,70,90,100,70
+seedot,5,40,grass,40,40,50,30,30,30
+nuzleaf,10,280,"grass, dark",70,70,40,60,40,60
+shiftry,13,596,"grass, dark",90,100,60,90,60,80
+taillow,3,23,"normal, flying",40,55,30,30,30,85
+swellow,7,198,"normal, flying",60,85,60,75,50,125
+wingull,6,95,"water, flying",40,30,30,55,30,85
+pelipper,12,280,"water, flying",60,50,100,95,70,65
+ralts,4,66,"psychic, fairy",28,25,25,45,35,40
+kirlia,8,202,"psychic, fairy",38,35,35,65,55,50
+gardevoir,16,484,"psychic, fairy",68,65,65,125,115,80
+surskit,5,17,"bug, water",40,30,32,50,52,65
+masquerain,8,36,"bug, flying",70,60,62,100,82,80
+shroomish,4,45,grass,60,40,60,40,60,35
+breloom,12,392,"grass, fighting",60,130,80,60,60,70
+slakoth,8,240,normal,60,60,60,35,35,30
+vigoroth,14,465,normal,80,80,80,55,55,90
+slaking,20,1305,normal,150,160,100,95,65,100
+nincada,5,55,"bug, ground",31,45,90,30,30,40
+ninjask,8,120,"bug, flying",61,90,45,50,50,160
+shedinja,8,12,"bug, ghost",1,90,45,30,30,40
+whismur,6,163,normal,64,51,23,51,23,28
+loudred,10,405,normal,84,71,43,71,43,48
+exploud,15,840,normal,104,91,63,91,73,68
+makuhita,10,864,fighting,72,60,30,20,30,25
+hariyama,23,2538,fighting,144,120,60,40,60,50
+azurill,2,20,"normal, fairy",50,20,40,20,40,20
+nosepass,10,970,rock,30,45,135,45,90,30
+skitty,6,110,normal,50,45,45,35,35,50
+delcatty,11,326,normal,70,65,65,55,55,90
+sableye,5,110,"dark, ghost",50,75,75,65,65,50
+mawile,6,115,"steel, fairy",50,85,85,55,55,50
+aron,4,600,"steel, rock",50,70,100,40,40,30
+lairon,9,1200,"steel, rock",60,90,140,50,50,40
+aggron,21,3600,"steel, rock",70,110,180,60,60,50
+meditite,6,112,"fighting, psychic",30,40,55,40,55,60
+medicham,13,315,"fighting, psychic",60,60,75,60,75,80
+electrike,6,152,electric,40,45,40,65,40,65
+manectric,15,402,electric,70,75,60,105,60,105
+plusle,4,42,electric,60,50,40,85,75,95
+minun,4,42,electric,60,40,50,75,85,95
+volbeat,7,177,bug,65,73,75,47,85,85
+illumise,6,177,bug,65,47,75,73,85,85
+roselia,3,20,"grass, poison",50,60,45,100,80,65
+gulpin,4,103,poison,70,43,53,43,53,40
+swalot,17,800,poison,100,73,83,73,83,55
+carvanha,8,208,"water, dark",45,90,20,65,20,65
+sharpedo,18,888,"water, dark",70,120,40,95,40,95
+wailmer,20,1300,water,130,70,35,70,35,60
+wailord,145,3980,water,170,90,45,90,45,60
+numel,7,240,"fire, ground",60,60,40,65,45,35
+camerupt,19,2200,"fire, ground",70,100,70,105,75,40
+torkoal,5,804,fire,70,85,140,85,70,20
+spoink,7,306,psychic,60,25,35,70,80,60
+grumpig,9,715,psychic,80,45,65,90,110,80
+spinda,11,50,normal,60,60,60,60,60,60
+trapinch,7,150,ground,45,100,45,45,45,10
+vibrava,11,153,"ground, dragon",50,70,50,50,50,70
+flygon,20,820,"ground, dragon",80,100,80,80,80,100
+cacnea,4,513,grass,50,85,40,85,40,35
+cacturne,13,774,"grass, dark",70,115,60,115,60,55
+swablu,4,12,"normal, flying",45,40,60,40,75,50
+altaria,11,206,"dragon, flying",75,70,90,70,105,80
+zangoose,13,403,normal,73,115,60,60,60,90
+seviper,27,525,poison,73,100,60,100,60,65
+lunatone,10,1680,"rock, psychic",90,55,65,95,85,70
+solrock,12,1540,"rock, psychic",90,95,85,55,65,70
+barboach,4,19,"water, ground",50,48,43,46,41,60
+whiscash,9,236,"water, ground",110,78,73,76,71,60
+corphish,6,115,water,43,80,65,50,35,35
+crawdaunt,11,328,"water, dark",63,120,85,90,55,55
+baltoy,5,215,"ground, psychic",40,40,55,40,70,55
+claydol,15,1080,"ground, psychic",60,70,105,70,120,75
+lileep,10,238,"rock, grass",66,41,77,61,87,23
+cradily,15,604,"rock, grass",86,81,97,81,107,43
+anorith,7,125,"rock, bug",45,95,50,40,50,75
+armaldo,15,682,"rock, bug",75,125,100,70,80,45
+feebas,6,74,water,20,15,20,10,55,80
+milotic,62,1620,water,95,60,79,100,125,81
+castform,3,8,normal,70,70,70,70,70,70
+kecleon,10,220,normal,60,90,70,60,120,40
+shuppet,6,23,ghost,44,75,35,63,33,45
+banette,11,125,ghost,64,115,65,83,63,65
+duskull,8,150,ghost,20,40,90,30,90,25
+dusclops,16,306,ghost,40,70,130,60,130,25
+tropius,20,1000,"grass, flying",99,68,83,72,87,51
+chimecho,6,10,psychic,75,50,80,95,90,65
+absol,12,470,dark,65,130,60,75,60,75
+wynaut,6,140,psychic,95,23,48,23,48,23
+snorunt,7,168,ice,50,50,50,50,50,50
+glalie,15,2565,ice,80,80,80,80,80,80
+spheal,8,395,"ice, water",70,40,50,55,50,25
+sealeo,11,876,"ice, water",90,60,70,75,70,45
+walrein,14,1506,"ice, water",110,80,90,95,90,65
+clamperl,4,525,water,35,64,85,74,55,32
+huntail,17,270,water,55,104,105,94,75,52
+gorebyss,18,226,water,55,84,105,114,75,52
+relicanth,10,234,"water, rock",100,90,130,45,65,55
+luvdisc,6,87,water,43,30,55,40,65,97
+bagon,6,421,dragon,45,75,60,40,30,50
+shelgon,11,1105,dragon,65,95,100,60,50,50
+salamence,15,1026,"dragon, flying",95,135,80,110,80,100
+beldum,6,952,"steel, psychic",40,55,80,35,60,30
+metang,12,2025,"steel, psychic",60,75,100,55,80,50
+metagross,16,5500,"steel, psychic",80,135,130,95,90,70
+regirock,17,2300,rock,80,100,200,50,100,50
+regice,18,1750,ice,80,50,100,100,200,50
+registeel,19,2050,steel,80,75,150,75,150,50
+latias,14,400,"dragon, psychic",80,80,90,110,130,110
+latios,20,600,"dragon, psychic",80,90,80,130,110,110
+kyogre,45,3520,water,100,100,90,150,140,90
+groudon,35,9500,ground,100,150,140,100,90,90
+rayquaza,70,2065,"dragon, flying",105,150,90,150,90,95
+jirachi,3,11,"steel, psychic",100,100,100,100,100,100
+deoxys-normal,17,608,psychic,50,150,50,150,50,150
+turtwig,4,102,grass,55,68,64,45,55,31
+grotle,11,970,grass,75,89,85,55,65,36
+torterra,22,3100,"grass, ground",95,109,105,75,85,56
+chimchar,5,62,fire,44,58,44,58,44,61
+monferno,9,220,"fire, fighting",64,78,52,78,52,81
+infernape,12,550,"fire, fighting",76,104,71,104,71,108
+piplup,4,52,water,53,51,53,61,56,40
+prinplup,8,230,water,64,66,68,81,76,50
+empoleon,17,845,"water, steel",84,86,88,111,101,60
+starly,3,20,"normal, flying",40,55,30,30,30,60
+staravia,6,155,"normal, flying",55,75,50,40,40,80
+staraptor,12,249,"normal, flying",85,120,70,50,60,100
+bidoof,5,200,normal,59,45,40,35,40,31
+bibarel,10,315,"normal, water",79,85,60,55,60,71
+kricketot,3,22,bug,37,25,41,25,41,25
+kricketune,10,255,bug,77,85,51,55,51,65
+shinx,5,95,electric,45,65,34,40,34,45
+luxio,9,305,electric,60,85,49,60,49,60
+luxray,14,420,electric,80,120,79,95,79,70
+budew,2,12,"grass, poison",40,30,35,50,70,55
+roserade,9,145,"grass, poison",60,70,65,125,105,90
+cranidos,9,315,rock,67,125,40,30,30,58
+rampardos,16,1025,rock,97,165,60,65,50,58
+shieldon,5,570,"rock, steel",30,42,118,42,88,30
+bastiodon,13,1495,"rock, steel",60,52,168,47,138,30
+burmy,2,34,bug,40,29,45,29,45,36
+wormadam-plant,5,65,"bug, grass",60,59,85,79,105,36
+mothim,9,233,"bug, flying",70,94,50,94,50,66
+combee,3,55,"bug, flying",30,30,42,30,42,70
+vespiquen,12,385,"bug, flying",70,80,102,80,102,40
+pachirisu,4,39,electric,60,45,70,45,90,95
+buizel,7,295,water,55,65,35,60,30,85
+floatzel,11,335,water,85,105,55,85,50,115
+cherubi,4,33,grass,45,35,45,62,53,35
+cherrim,5,93,grass,70,60,70,87,78,85
+shellos,3,63,water,76,48,48,57,62,34
+gastrodon,9,299,"water, ground",111,83,68,92,82,39
+ambipom,12,203,normal,75,100,66,60,66,115
+drifloon,4,12,"ghost, flying",90,50,34,60,44,70
+drifblim,12,150,"ghost, flying",150,80,44,90,54,80
+buneary,4,55,normal,55,66,44,44,56,85
+lopunny,12,333,normal,65,76,84,54,96,105
+mismagius,9,44,ghost,60,60,60,105,105,105
+honchkrow,9,273,"dark, flying",100,125,52,105,52,71
+glameow,5,39,normal,49,55,42,42,37,85
+purugly,10,438,normal,71,82,64,64,59,112
+chingling,2,6,psychic,45,30,50,65,50,45
+stunky,4,192,"poison, dark",63,63,47,41,41,74
+skuntank,10,380,"poison, dark",103,93,67,71,61,84
+bronzor,5,605,"steel, psychic",57,24,86,24,86,23
+bronzong,13,1870,"steel, psychic",67,89,116,79,116,33
+bonsly,5,150,rock,50,80,95,10,45,10
+mime-jr,6,130,"psychic, fairy",20,25,45,70,90,60
+happiny,6,244,normal,100,5,5,15,65,30
+chatot,5,19,"normal, flying",76,65,45,92,42,91
+spiritomb,10,1080,"ghost, dark",50,92,108,92,108,35
+gible,7,205,"dragon, ground",58,70,45,40,45,42
+gabite,14,560,"dragon, ground",68,90,65,50,55,82
+garchomp,19,950,"dragon, ground",108,130,95,80,85,102
+munchlax,6,1050,normal,135,85,40,40,85,5
+riolu,7,202,fighting,40,70,40,35,40,60
+lucario,12,540,"fighting, steel",70,110,70,115,70,90
+hippopotas,8,495,ground,68,72,78,38,42,32
+hippowdon,20,3000,ground,108,112,118,68,72,47
+skorupi,8,120,"poison, bug",40,50,90,30,55,65
+drapion,13,615,"poison, dark",70,90,110,60,75,95
+croagunk,7,230,"poison, fighting",48,61,40,61,40,50
+toxicroak,13,444,"poison, fighting",83,106,65,86,65,85
+carnivine,14,270,grass,74,100,72,90,72,46
+finneon,4,70,water,49,49,56,49,61,66
+lumineon,12,240,water,69,69,76,69,86,91
+mantyke,10,650,"water, flying",45,20,50,60,120,50
+snover,10,505,"grass, ice",60,62,50,62,60,40
+abomasnow,22,1355,"grass, ice",90,92,75,92,85,60
+weavile,11,340,"dark, ice",70,120,65,45,85,125
+magnezone,12,1800,"electric, steel",70,70,115,130,90,60
+lickilicky,17,1400,normal,110,85,95,80,95,50
+rhyperior,24,2828,"ground, rock",115,140,130,55,55,40
+tangrowth,20,1286,grass,100,100,125,110,50,50
+electivire,18,1386,electric,75,123,67,95,85,95
+magmortar,16,680,fire,75,95,67,125,95,83
+togekiss,15,380,"fairy, flying",85,50,95,120,115,80
+yanmega,19,515,"bug, flying",86,76,86,116,56,95
+leafeon,10,255,grass,65,110,130,60,65,95
+glaceon,8,259,ice,65,60,110,130,95,65
+gliscor,20,425,"ground, flying",75,95,125,45,75,95
+mamoswine,25,2910,"ice, ground",110,130,80,70,60,80
+porygon-z,9,340,normal,85,80,70,135,75,90
+gallade,16,520,"psychic, fighting",68,125,65,65,115,80
+probopass,14,3400,"rock, steel",60,55,145,75,150,40
+dusknoir,22,1066,ghost,45,100,135,65,135,45
+froslass,13,266,"ice, ghost",70,80,70,80,70,110
+rotom,3,3,"electric, ghost",50,50,77,95,77,91
+uxie,3,3,psychic,75,75,130,75,130,95
+mesprit,3,3,psychic,80,105,105,105,105,80
+azelf,3,3,psychic,75,125,70,125,70,115
+dialga,54,6830,"steel, dragon",100,120,120,150,100,90
+palkia,42,3360,"water, dragon",90,120,100,150,120,100
+heatran,17,4300,"fire, steel",91,90,106,130,106,77
+regigigas,37,4200,normal,110,160,110,80,110,100
+giratina-altered,45,7500,"ghost, dragon",150,100,120,100,120,90
+cresselia,15,856,psychic,120,70,110,75,120,85
+phione,4,31,water,80,80,80,80,80,80
+manaphy,3,14,water,100,100,100,100,100,100
+darkrai,15,505,dark,70,90,90,135,90,125
+shaymin-land,2,21,grass,100,100,100,100,100,100
+arceus,32,3200,normal,120,120,120,120,120,120
+victini,4,40,"psychic, fire",100,100,100,100,100,100
+snivy,6,81,grass,45,45,55,45,55,63
+servine,8,160,grass,60,60,75,60,75,83
+serperior,33,630,grass,75,75,95,75,95,113
+tepig,5,99,fire,65,63,45,45,45,45
+pignite,10,555,"fire, fighting",90,93,55,70,55,55
+emboar,16,1500,"fire, fighting",110,123,65,100,65,65
+oshawott,5,59,water,55,55,45,63,45,45
+dewott,8,245,water,75,75,60,83,60,60
+samurott,15,946,water,95,100,85,108,70,70
+patrat,5,116,normal,45,55,39,35,39,42
+watchog,11,270,normal,60,85,69,60,69,77
+lillipup,4,41,normal,45,60,45,25,45,55
+herdier,9,147,normal,65,80,65,35,65,60
+stoutland,12,610,normal,85,110,90,45,90,80
+purrloin,4,101,dark,41,50,37,50,37,66
+liepard,11,375,dark,64,88,50,88,50,106
+pansage,6,105,grass,50,53,48,53,48,64
+simisage,11,305,grass,75,98,63,98,63,101
+pansear,6,110,fire,50,53,48,53,48,64
+simisear,10,280,fire,75,98,63,98,63,101
+panpour,6,135,water,50,53,48,53,48,64
+simipour,10,290,water,75,98,63,98,63,101
+munna,6,233,psychic,76,25,45,67,55,24
+musharna,11,605,psychic,116,55,85,107,95,29
+pidove,3,21,"normal, flying",50,55,50,36,30,43
+tranquill,6,150,"normal, flying",62,77,62,50,42,65
+unfezant,12,290,"normal, flying",80,115,80,65,55,93
+blitzle,8,298,electric,45,60,32,50,32,76
+zebstrika,16,795,electric,75,100,63,80,63,116
+roggenrola,4,180,rock,55,75,85,25,25,15
+boldore,9,1020,rock,70,105,105,50,40,20
+gigalith,17,2600,rock,85,135,130,60,80,25
+woobat,4,21,"psychic, flying",65,45,43,55,43,72
+swoobat,9,105,"psychic, flying",67,57,55,77,55,114
+drilbur,3,85,ground,60,85,40,30,45,68
+excadrill,7,404,"ground, steel",110,135,60,50,65,88
+audino,11,310,normal,103,60,86,60,86,50
+timburr,6,125,fighting,75,80,55,25,35,35
+gurdurr,12,400,fighting,85,105,85,40,50,40
+conkeldurr,14,870,fighting,105,140,95,55,65,45
+tympole,5,45,water,50,50,40,50,40,64
+palpitoad,8,170,"water, ground",75,65,55,65,55,69
+seismitoad,15,620,"water, ground",105,95,75,85,75,74
+throh,13,555,fighting,120,100,85,30,85,45
+sawk,14,510,fighting,75,125,75,30,75,85
+sewaddle,3,25,"bug, grass",45,53,70,40,60,42
+swadloon,5,73,"bug, grass",55,63,90,50,80,42
+leavanny,12,205,"bug, grass",75,103,80,70,80,92
+venipede,4,53,"bug, poison",30,45,59,30,39,57
+whirlipede,12,585,"bug, poison",40,55,99,40,79,47
+scolipede,25,2005,"bug, poison",60,100,89,55,69,112
+cottonee,3,6,"grass, fairy",40,27,60,37,50,66
+whimsicott,7,66,"grass, fairy",60,67,85,77,75,116
+petilil,5,66,grass,45,35,50,70,50,30
+lilligant,11,163,grass,70,60,75,110,75,90
+basculin-red-striped,10,180,water,70,92,65,80,55,98
+sandile,7,152,"ground, dark",50,72,35,35,35,65
+krokorok,10,334,"ground, dark",60,82,45,45,45,74
+krookodile,15,963,"ground, dark",95,117,80,65,70,92
+darumaka,6,375,fire,70,90,45,15,45,50
+darmanitan-standard,13,929,fire,105,140,55,30,55,95
+maractus,10,280,grass,75,86,67,106,67,60
+dwebble,3,145,"bug, rock",50,65,85,35,35,55
+crustle,14,2000,"bug, rock",70,105,125,65,75,45
+scraggy,6,118,"dark, fighting",50,75,70,35,70,48
+scrafty,11,300,"dark, fighting",65,90,115,45,115,58
+sigilyph,14,140,"psychic, flying",72,58,80,103,80,97
+yamask,5,15,ghost,38,30,85,55,65,30
+cofagrigus,17,765,ghost,58,50,145,95,105,30
+tirtouga,7,165,"water, rock",54,78,103,53,45,22
+carracosta,12,810,"water, rock",74,108,133,83,65,32
+archen,5,95,"rock, flying",55,112,45,74,45,70
+archeops,14,320,"rock, flying",75,140,65,112,65,110
+trubbish,6,310,poison,50,50,62,40,62,65
+garbodor,19,1073,poison,80,95,82,60,82,75
+zorua,7,125,dark,40,65,40,80,40,65
+zoroark,16,811,dark,60,105,60,120,60,105
+minccino,4,58,normal,55,50,40,40,40,75
+cinccino,5,75,normal,75,95,60,65,60,115
+gothita,4,58,psychic,45,30,50,55,65,45
+gothorita,7,180,psychic,60,45,70,75,85,55
+gothitelle,15,440,psychic,70,55,95,95,110,65
+solosis,3,10,psychic,45,30,40,105,50,20
+duosion,6,80,psychic,65,40,50,125,60,30
+reuniclus,10,201,psychic,110,65,75,125,85,30
+ducklett,5,55,"water, flying",62,44,50,44,50,55
+swanna,13,242,"water, flying",75,87,63,87,63,98
+vanillite,4,57,ice,36,50,50,65,60,44
+vanillish,11,410,ice,51,65,65,80,75,59
+vanilluxe,13,575,ice,71,95,85,110,95,79
+deerling,6,195,"normal, grass",60,60,50,40,50,75
+sawsbuck,19,925,"normal, grass",80,100,70,60,70,95
+emolga,4,50,"electric, flying",55,75,60,75,60,103
+karrablast,5,59,bug,50,75,45,40,45,60
+escavalier,10,330,"bug, steel",70,135,105,60,105,20
+foongus,2,10,"grass, poison",69,55,45,55,55,15
+amoonguss,6,105,"grass, poison",114,85,70,85,80,30
+frillish,12,330,"water, ghost",55,40,50,65,85,40
+jellicent,22,1350,"water, ghost",100,60,70,85,105,60
+alomomola,12,316,water,165,75,80,40,45,65
+joltik,1,6,"bug, electric",50,47,50,57,50,65
+galvantula,8,143,"bug, electric",70,77,60,97,60,108
+ferroseed,6,188,"grass, steel",44,50,91,24,86,10
+ferrothorn,10,1100,"grass, steel",74,94,131,54,116,20
+klink,3,210,steel,40,55,70,45,60,30
+klang,6,510,steel,60,80,95,70,85,50
+klinklang,6,810,steel,60,100,115,70,85,90
+tynamo,2,3,electric,35,55,40,45,40,60
+eelektrik,12,220,electric,65,85,70,75,70,40
+eelektross,21,805,electric,85,115,80,105,80,50
+elgyem,5,90,psychic,55,55,55,85,55,30
+beheeyem,10,345,psychic,75,75,75,125,95,40
+litwick,3,31,"ghost, fire",50,30,55,65,55,20
+lampent,6,130,"ghost, fire",60,40,60,95,60,55
+chandelure,10,343,"ghost, fire",60,55,90,145,90,80
+axew,6,180,dragon,46,87,60,30,40,57
+fraxure,10,360,dragon,66,117,70,40,50,67
+haxorus,18,1055,dragon,76,147,90,60,70,97
+cubchoo,5,85,ice,55,70,40,60,40,40
+beartic,26,2600,ice,95,130,80,70,80,50
+cryogonal,11,1480,ice,80,50,50,95,135,105
+shelmet,4,77,bug,50,40,85,40,65,25
+accelgor,8,253,bug,80,70,40,100,60,145
+stunfisk,7,110,"ground, electric",109,66,84,81,99,32
+mienfoo,9,200,fighting,45,85,50,55,50,65
+mienshao,14,355,fighting,65,125,60,95,60,105
+druddigon,16,1390,dragon,77,120,90,60,90,48
+golett,10,920,"ground, ghost",59,74,50,35,50,35
+golurk,28,3300,"ground, ghost",89,124,80,55,80,55
+pawniard,5,102,"dark, steel",45,85,70,40,40,60
+bisharp,16,700,"dark, steel",65,125,100,60,70,70
+bouffalant,16,946,normal,95,110,95,40,95,55
+rufflet,5,105,"normal, flying",70,83,50,37,50,60
+braviary,15,410,"normal, flying",100,123,75,57,75,80
+vullaby,5,90,"dark, flying",70,55,75,45,65,60
+mandibuzz,12,395,"dark, flying",110,65,105,55,95,80
+heatmor,14,580,fire,85,97,66,105,66,65
+durant,3,330,"bug, steel",58,109,112,48,48,109
+deino,8,173,"dark, dragon",52,65,50,45,50,38
+zweilous,14,500,"dark, dragon",72,85,70,65,70,58
+hydreigon,18,1600,"dark, dragon",92,105,90,125,90,98
+larvesta,11,288,"bug, fire",55,85,55,50,55,60
+volcarona,16,460,"bug, fire",85,60,65,135,105,100
+cobalion,21,2500,"steel, fighting",91,90,129,90,72,108
+terrakion,19,2600,"rock, fighting",91,129,90,72,90,108
+virizion,20,2000,"grass, fighting",91,90,72,90,129,108
+tornadus-incarnate,15,630,flying,79,115,70,125,80,111
+thundurus-incarnate,15,610,"electric, flying",79,115,70,125,80,111
+reshiram,32,3300,"dragon, fire",100,120,100,150,120,90
+zekrom,29,3450,"dragon, electric",100,150,120,120,100,90
+landorus-incarnate,15,680,"ground, flying",89,125,90,115,80,101
+kyurem,30,3250,"dragon, ice",125,130,90,130,90,95
+keldeo-ordinary,14,485,"water, fighting",91,72,90,129,90,108
+meloetta-aria,6,65,"normal, psychic",100,77,77,128,128,90
+genesect,15,825,"bug, steel",71,120,95,120,95,99
+chespin,4,90,grass,56,61,65,48,45,38
+quilladin,7,290,grass,61,78,95,56,58,57
+chesnaught,16,900,"grass, fighting",88,107,122,74,75,64
+fennekin,4,94,fire,40,45,40,62,60,60
+braixen,10,145,fire,59,59,58,90,70,73
+delphox,15,390,"fire, psychic",75,69,72,114,100,104
+froakie,3,70,water,41,56,40,62,44,71
+frogadier,6,109,water,54,63,52,83,56,97
+greninja,15,400,"water, dark",72,95,67,103,71,122
+bunnelby,4,50,normal,38,36,38,32,36,57
+diggersby,10,424,"normal, ground",85,56,77,50,77,78
+fletchling,3,17,"normal, flying",45,50,43,40,38,62
+fletchinder,7,160,"fire, flying",62,73,55,56,52,84
+talonflame,12,245,"fire, flying",78,81,71,74,69,126
+scatterbug,3,25,bug,38,35,40,27,25,35
+spewpa,3,84,bug,45,22,60,27,30,29
+vivillon,12,170,"bug, flying",80,52,50,90,50,89
+litleo,6,135,"fire, normal",62,50,58,73,54,72
+pyroar,15,815,"fire, normal",86,68,72,109,66,106
+flabebe,1,1,fairy,44,38,39,61,79,42
+floette,2,9,fairy,54,45,47,75,98,52
+florges,11,100,fairy,78,65,68,112,154,75
+skiddo,9,310,grass,66,65,48,62,57,52
+gogoat,17,910,grass,123,100,62,97,81,68
+pancham,6,80,fighting,67,82,62,46,48,43
+pangoro,21,1360,"fighting, dark",95,124,78,69,71,58
+furfrou,12,280,normal,75,80,60,65,90,102
+espurr,3,35,psychic,62,48,54,63,60,68
+meowstic-male,6,85,psychic,74,48,76,83,81,104
+honedge,8,20,"steel, ghost",45,80,100,35,37,28
+doublade,8,45,"steel, ghost",59,110,150,45,49,35
+aegislash-shield,17,530,"steel, ghost",60,50,140,50,140,60
+spritzee,2,5,fairy,78,52,60,63,65,23
+aromatisse,8,155,fairy,101,72,72,99,89,29
+swirlix,4,35,fairy,62,48,66,59,57,49
+slurpuff,8,50,fairy,82,80,86,85,75,72
+inkay,4,35,"dark, psychic",53,54,53,37,46,45
+malamar,15,470,"dark, psychic",86,92,88,68,75,73
+binacle,5,310,"rock, water",42,52,67,39,56,50
+barbaracle,13,960,"rock, water",72,105,115,54,86,68
+skrelp,5,73,"poison, water",50,60,60,60,60,30
+dragalge,18,815,"poison, dragon",65,75,90,97,123,44
+clauncher,5,83,water,50,53,62,58,63,44
+clawitzer,13,353,water,71,73,88,120,89,59
+helioptile,5,60,"electric, normal",44,38,33,61,43,70
+heliolisk,10,210,"electric, normal",62,55,52,109,94,109
+tyrunt,8,260,"rock, dragon",58,89,77,45,45,48
+tyrantrum,25,2700,"rock, dragon",82,121,119,69,59,71
+amaura,13,252,"rock, ice",77,59,50,67,63,46
+aurorus,27,2250,"rock, ice",123,77,72,99,92,58
+sylveon,10,235,fairy,95,65,65,110,130,60
+hawlucha,8,215,"fighting, flying",78,92,75,74,63,118
+dedenne,2,22,"electric, fairy",67,58,57,81,67,101
+carbink,3,57,"rock, fairy",50,50,150,50,150,50
+goomy,3,28,dragon,45,50,35,55,75,40
+sliggoo,8,175,dragon,68,75,53,83,113,60
+goodra,20,1505,dragon,90,100,70,110,150,80
+klefki,2,30,"steel, fairy",57,80,91,80,87,75
+phantump,4,70,"ghost, grass",43,70,48,50,60,38
+trevenant,15,710,"ghost, grass",85,110,76,65,82,56
+pumpkaboo-average,4,50,"ghost, grass",49,66,70,44,55,51
+gourgeist-average,9,125,"ghost, grass",65,90,122,58,75,84
+bergmite,10,995,ice,55,69,85,32,35,28
+avalugg,20,5050,ice,95,117,184,44,46,28
+noibat,5,80,"flying, dragon",40,30,35,45,40,55
+noivern,15,850,"flying, dragon",85,70,80,97,80,123
+xerneas,30,2150,fairy,126,131,95,131,98,99
+yveltal,58,2030,"dark, flying",126,131,95,131,98,99
+zygarde-50,50,3050,"dragon, ground",108,100,121,81,95,95
+diancie,7,88,"rock, fairy",50,100,150,100,150,50
+hoopa,5,90,"psychic, ghost",80,110,60,150,130,70
+volcanion,17,1950,"fire, water",80,110,120,130,90,70
+rowlet,3,15,"grass, flying",68,55,55,50,50,42
+dartrix,7,160,"grass, flying",78,75,75,70,70,52
+decidueye,16,366,"grass, ghost",78,107,75,100,100,70
+litten,4,43,fire,45,65,40,60,40,70
+torracat,7,250,fire,65,85,50,80,50,90
+incineroar,18,830,"fire, dark",95,115,90,80,90,60
+popplio,4,75,water,50,54,54,66,56,40
+brionne,6,175,water,60,69,69,91,81,50
+primarina,18,440,"water, fairy",80,74,74,126,116,60
+pikipek,3,12,"normal, flying",35,75,30,30,30,65
+trumbeak,6,148,"normal, flying",55,85,50,40,50,75
+toucannon,11,260,"normal, flying",80,120,75,75,75,60
+yungoos,4,60,normal,48,70,30,30,30,45
+gumshoos,7,142,normal,88,110,60,55,60,45
+grubbin,4,44,bug,47,62,45,55,45,46
+charjabug,5,105,"bug, electric",57,82,95,55,75,36
+vikavolt,15,450,"bug, electric",77,70,90,145,75,43
+crabrawler,6,70,fighting,47,82,57,42,47,63
+crabominable,17,1800,"fighting, ice",97,132,77,62,67,43
+oricorio-baile,6,34,"fire, flying",75,70,70,98,70,93
+cutiefly,1,2,"bug, fairy",40,45,40,55,40,84
+ribombee,2,5,"bug, fairy",60,55,60,95,70,124
+rockruff,5,92,rock,45,65,40,30,40,60
+lycanroc-midday,8,250,rock,75,115,65,55,65,112
+wishiwashi-solo,2,3,water,45,20,20,25,25,40
+mareanie,4,80,"poison, water",50,53,62,43,52,45
+toxapex,7,145,"poison, water",50,63,152,53,142,35
+mudbray,10,1100,ground,70,100,70,45,55,45
+mudsdale,25,9200,ground,100,125,100,55,85,35
+dewpider,3,40,"water, bug",38,40,52,40,72,27
+araquanid,18,820,"water, bug",68,70,92,50,132,42
+fomantis,3,15,grass,40,55,35,50,35,35
+lurantis,9,185,grass,70,105,90,80,90,45
+morelull,2,15,"grass, fairy",40,35,55,65,75,15
+shiinotic,10,115,"grass, fairy",60,45,80,90,100,30
+salandit,6,48,"poison, fire",48,44,40,71,40,77
+salazzle,12,222,"poison, fire",68,64,60,111,60,117
+stufful,5,68,"normal, fighting",70,75,50,45,50,50
+bewear,21,1350,"normal, fighting",120,125,80,55,60,60
+bounsweet,3,32,grass,42,30,38,30,38,32
+steenee,7,82,grass,52,40,48,40,48,62
+tsareena,12,214,grass,72,120,98,50,98,72
+comfey,1,3,fairy,51,52,90,82,110,100
+oranguru,15,760,"normal, psychic",90,60,80,90,110,60
+passimian,20,828,fighting,100,120,90,40,60,80
+wimpod,5,120,"bug, water",25,35,40,20,30,80
+golisopod,20,1080,"bug, water",75,125,140,60,90,40
+sandygast,5,700,"ghost, ground",55,55,80,70,45,15
+palossand,13,2500,"ghost, ground",85,75,110,100,75,35
+pyukumuku,3,12,water,55,60,130,30,130,5
+type-null,19,1205,normal,95,95,95,95,95,59
+silvally,23,1005,normal,95,95,95,95,95,95
+minior-red-meteor,3,400,"rock, flying",60,60,100,60,100,60
+komala,4,199,normal,65,115,65,75,95,65
+turtonator,20,2120,"fire, dragon",60,78,135,91,85,36
+togedemaru,3,33,"electric, steel",65,98,63,40,73,96
+mimikyu-disguised,2,7,"ghost, fairy",55,90,80,50,105,96
+bruxish,9,190,"water, psychic",68,105,70,70,70,92
+drampa,30,1850,"normal, dragon",78,60,85,135,91,36
+dhelmise,39,2100,"ghost, grass",70,131,100,86,90,40
+jangmo-o,6,297,dragon,45,55,65,45,45,45
+hakamo-o,12,470,"dragon, fighting",55,75,90,65,70,65
+kommo-o,16,782,"dragon, fighting",75,110,125,100,105,85
+tapu-koko,18,205,"electric, fairy",70,115,85,95,75,130
+tapu-lele,12,186,"psychic, fairy",70,85,75,130,115,95
+tapu-bulu,19,455,"grass, fairy",70,130,115,85,95,75
+tapu-fini,13,212,"water, fairy",70,75,115,95,130,85
+cosmog,2,1,psychic,43,29,31,29,31,37
+cosmoem,1,9999,psychic,43,29,131,29,131,37
+solgaleo,34,2300,"psychic, steel",137,137,107,113,89,97
+lunala,40,1200,"psychic, ghost",137,113,89,137,107,97
+nihilego,12,555,"rock, poison",109,53,47,127,131,103
+buzzwole,24,3336,"bug, fighting",107,139,139,53,53,79
+pheromosa,18,250,"bug, fighting",71,137,37,137,37,151
+xurkitree,38,1000,electric,83,89,71,173,71,83
+celesteela,92,9999,"steel, flying",97,101,103,107,101,61
+kartana,3,1,"grass, steel",59,181,131,59,31,109
+guzzlord,55,8880,"dark, dragon",223,101,53,97,53,43
+necrozma,24,2300,psychic,97,107,101,127,89,79
+magearna,10,805,"steel, fairy",80,95,115,130,115,65
+marshadow,7,222,"fighting, ghost",90,125,80,90,90,125
+poipole,6,18,poison,67,73,67,73,67,73
+naganadel,36,1500,"poison, dragon",73,73,73,127,73,121
+stakataka,55,8200,"rock, steel",61,131,211,53,101,13
+blacephalon,18,130,"fire, ghost",53,127,53,151,79,107
+zeraora,15,445,electric,88,112,75,102,80,143
+meltan,2,80,steel,46,65,65,55,35,34
+melmetal,25,8000,steel,135,143,143,80,65,34
+grookey,3,50,grass,50,65,50,40,40,65
+thwackey,7,140,grass,70,85,70,55,60,80
+rillaboom,21,900,grass,100,125,90,60,70,85
+scorbunny,3,45,fire,50,71,40,40,40,69
+raboot,6,90,fire,65,86,60,55,60,94
+cinderace,14,330,fire,80,116,75,65,75,119
+sobble,3,40,water,50,40,40,70,40,70
+drizzile,7,115,water,65,60,55,95,55,90
+inteleon,19,452,water,70,85,65,125,65,120
+skwovet,3,25,normal,70,55,55,35,35,25
+greedent,6,60,normal,120,95,95,55,75,20
+rookidee,2,18,flying,38,47,35,33,35,57
+corvisquire,8,160,flying,68,67,55,43,55,77
+corviknight,22,750,"flying, steel",98,87,105,53,85,67
+blipbug,4,80,bug,25,20,20,25,45,45
+dottler,4,195,"bug, psychic",50,35,80,50,90,30
+orbeetle,4,408,"bug, psychic",60,45,110,80,120,90
+nickit,6,89,dark,40,28,28,47,52,50
+thievul,12,199,dark,70,58,58,87,92,90
+gossifleur,4,22,grass,40,40,60,40,60,10
+eldegoss,5,25,grass,60,50,90,80,120,60
+wooloo,6,60,normal,42,40,55,40,45,48
+dubwool,13,430,normal,72,80,100,60,90,88
+chewtle,3,85,water,50,64,50,38,38,44
+drednaw,10,1155,"water, rock",90,115,90,48,68,74
+yamper,3,135,electric,59,45,50,40,50,26
+boltund,10,340,electric,69,90,60,90,60,121
+rolycoly,3,120,rock,30,40,50,40,50,30
+carkol,11,780,"rock, fire",80,60,90,60,70,50
+coalossal,28,3105,"rock, fire",110,80,120,80,90,30
+applin,2,5,"grass, dragon",40,40,80,40,40,20
+flapple,3,10,"grass, dragon",70,110,80,95,60,70
+appletun,4,130,"grass, dragon",110,85,80,100,80,30
+silicobra,22,76,ground,52,57,75,35,50,46
+sandaconda,38,655,ground,72,107,125,65,70,71
+cramorant,8,180,"flying, water",70,85,55,85,95,85
+arrokuda,5,10,water,41,63,40,40,30,66
+barraskewda,13,300,water,61,123,60,60,50,136
+toxel,4,110,"electric, poison",40,38,35,54,35,40
+toxtricity-amped,16,400,"electric, poison",75,98,70,114,70,75
+sizzlipede,7,10,"fire, bug",50,65,45,50,50,45
+centiskorch,30,1200,"fire, bug",100,115,65,90,90,65
+clobbopus,6,40,fighting,50,68,60,50,50,32
+grapploct,16,390,fighting,80,118,90,70,80,42
+sinistea,1,2,ghost,40,45,45,74,54,50
+polteageist,2,4,ghost,60,65,65,134,114,70
+hatenna,4,34,psychic,42,30,45,56,53,39
+hattrem,6,48,psychic,57,40,65,86,73,49
+hatterene,21,51,"psychic, fairy",57,90,95,136,103,29
+impidimp,4,55,"dark, fairy",45,45,30,55,40,50
+morgrem,8,125,"dark, fairy",65,60,45,75,55,70
+grimmsnarl,15,610,"dark, fairy",95,120,65,95,75,60
+obstagoon,16,460,"dark, normal",93,90,101,60,81,95
+perrserker,8,280,steel,70,110,100,50,60,50
+cursola,10,4,ghost,60,95,50,145,130,30
+sirfetchd,8,1170,fighting,62,135,95,68,82,65
+mr-rime,15,582,"ice, psychic",80,85,75,110,100,70
+runerigus,16,666,"ground, ghost",58,95,145,50,105,30
+milcery,2,3,fairy,45,40,40,50,61,34
+alcremie,3,5,fairy,65,60,75,110,121,64
+falinks,30,620,fighting,65,100,100,70,60,75
+pincurchin,3,10,electric,48,101,95,91,85,15
+snom,3,38,"ice, bug",30,25,35,45,30,20
+frosmoth,13,420,"ice, bug",70,65,60,125,90,65
+stonjourner,25,5200,rock,100,125,135,20,20,70
+eiscue-ice,14,890,ice,75,80,110,65,90,50
+indeedee-male,9,280,"psychic, normal",60,65,55,105,95,95
+morpeko-full-belly,3,30,"electric, dark",58,95,58,70,58,97
+cufant,12,1000,steel,72,80,49,40,49,40
+copperajah,30,6500,steel,122,130,69,80,69,30
+dracozolt,18,1900,"electric, dragon",90,100,90,80,70,75
+arctozolt,23,1500,"electric, ice",90,100,90,90,80,55
+dracovish,23,2150,"water, dragon",90,90,100,70,80,75
+arctovish,20,1750,"water, ice",90,90,100,80,90,55
+duraludon,18,400,"steel, dragon",70,95,115,120,50,85
+dreepy,5,20,"dragon, ghost",28,60,30,40,30,82
+drakloak,14,110,"dragon, ghost",68,80,50,60,50,102
+dragapult,30,500,"dragon, ghost",88,120,75,100,75,142
+zacian,28,1100,fairy,92,120,115,80,115,138
+zamazenta,29,2100,fighting,92,120,115,80,115,138
+eternatus,200,9500,"poison, dragon",140,85,95,145,95,130
+kubfu,6,120,fighting,60,90,60,53,50,72
+urshifu-single-strike,19,1050,"fighting, dark",100,130,100,63,60,97
+zarude,18,700,"dark, grass",105,120,105,70,95,105
+regieleki,12,1450,electric,80,100,50,100,50,200
+regidrago,21,2000,dragon,200,100,50,100,50,80
+glastrier,22,8000,ice,100,145,130,65,110,30
+spectrier,20,445,ghost,100,65,60,145,80,130
+calyrex,11,77,"psychic, grass",100,80,80,80,80,80
+wyrdeer,18,951,"normal, psychic",103,105,72,105,75,65
+kleavor,18,890,"bug, rock",70,135,95,45,70,85
+ursaluna,24,2900,"ground, normal",130,140,105,45,80,50
+basculegion-male,30,1100,"water, ghost",120,112,65,80,75,78
+sneasler,13,430,"fighting, poison",80,130,60,40,80,120
+overqwil,25,605,"dark, poison",85,115,95,65,65,85
+enamorus-incarnate,16,480,"fairy, flying",74,115,70,135,80,106
+sprigatito,4,41,grass,40,61,54,45,45,65
+floragato,9,122,grass,61,80,63,60,63,83
+meowscarada,15,312,"grass, dark",76,110,70,81,70,123
+fuecoco,4,98,fire,67,45,59,63,40,36
+crocalor,10,307,fire,81,55,78,90,58,49
+skeledirge,16,3265,"fire, ghost",104,75,100,110,75,66
+quaxly,5,61,water,55,65,45,50,45,50
+quaxwell,12,215,water,70,85,65,65,60,65
+quaquaval,18,619,"water, fighting",85,120,80,85,75,85
+lechonk,5,102,normal,54,45,40,35,45,35
+oinkologne-male,10,1200,normal,110,100,75,59,80,65
+tarountula,3,40,bug,35,41,45,29,40,20
+spidops,10,165,bug,60,79,92,52,86,35
+nymble,2,10,bug,33,46,40,21,25,45
+lokix,10,175,"bug, dark",71,102,78,52,55,92
+pawmi,3,25,electric,45,50,20,40,25,60
+pawmo,4,65,"electric, fighting",60,75,40,50,40,85
+pawmot,9,410,"electric, fighting",70,115,70,70,60,105
+tandemaus,3,18,normal,50,50,45,40,45,75
+maushold-family-of-four,3,23,normal,74,75,70,65,75,111
+fidough,3,109,fairy,37,55,70,30,55,65
+dachsbun,5,149,fairy,57,80,115,50,80,95
+smoliv,3,65,"grass, normal",41,35,45,58,51,30
+dolliv,6,119,"grass, normal",52,53,60,78,78,33
+arboliva,14,482,"grass, normal",78,69,90,125,109,39
+squawkabilly-green-plumage,6,24,"normal, flying",82,96,51,45,51,92
+nacli,4,160,rock,55,55,75,35,35,25
+naclstack,6,1050,rock,60,60,100,35,65,35
+garganacl,23,2400,rock,100,100,130,45,90,35
+charcadet,6,105,fire,40,50,40,50,40,35
+armarouge,15,850,"fire, psychic",85,60,100,125,80,75
+ceruledge,16,620,"fire, ghost",75,125,80,60,100,85
+tadbulb,3,4,electric,61,31,41,59,35,45
+bellibolt,12,1130,electric,109,64,91,103,83,45
+wattrel,4,36,"electric, flying",40,40,35,55,40,70
+kilowattrel,14,386,"electric, flying",70,70,60,105,60,125
+maschiff,5,160,dark,60,78,60,40,51,51
+mabosstiff,11,610,dark,80,120,90,60,70,85
+shroodle,2,7,"poison, normal",40,65,35,40,35,75
+grafaiai,7,272,"poison, normal",63,95,65,80,72,110
+bramblin,6,6,"grass, ghost",40,65,30,45,35,60
+brambleghast,12,60,"grass, ghost",55,115,70,80,70,90
+toedscool,9,330,"ground, grass",40,40,35,50,100,70
+toedscruel,19,580,"ground, grass",80,70,65,80,120,100
+klawf,13,790,rock,70,100,115,35,55,75
+capsakid,3,30,grass,50,62,40,62,40,50
+scovillain,9,150,"grass, fire",65,108,65,108,65,75
+rellor,2,10,bug,41,50,60,31,58,30
+rabsca,3,35,"bug, psychic",75,50,85,115,100,45
+flittle,2,15,psychic,30,35,30,55,30,75
+espathra,19,900,psychic,95,60,60,101,60,105
+tinkatink,4,89,"fairy, steel",50,45,45,35,64,58
+tinkatuff,7,591,"fairy, steel",65,55,55,45,82,78
+tinkaton,7,1128,"fairy, steel",85,75,77,70,105,94
+wiglett,12,18,water,10,55,25,35,25,95
+wugtrio,12,54,water,35,100,50,50,70,120
+bombirdier,15,429,"flying, dark",70,103,85,60,85,82
+finizen,13,602,water,70,45,40,45,40,75
+palafin-zero,13,602,water,100,70,72,53,62,100
+varoom,10,350,"steel, poison",45,70,63,30,45,47
+revavroom,18,1200,"steel, poison",80,119,90,54,67,90
+cyclizar,16,630,"dragon, normal",70,95,65,85,65,121
+orthworm,25,3100,steel,70,85,145,60,55,65
+glimmet,7,80,"rock, poison",48,35,42,105,60,60
+glimmora,15,450,"rock, poison",83,55,90,130,81,86
+greavard,6,350,ghost,50,61,60,30,55,34
+houndstone,20,150,ghost,72,101,100,50,97,68
+flamigo,16,370,"flying, fighting",82,115,74,75,64,90
+cetoddle,12,450,ice,108,68,45,30,40,43
+cetitan,45,7000,ice,170,113,65,45,55,73
+veluza,25,900,"water, psychic",90,102,73,78,65,70
+dondozo,120,2200,water,150,100,115,65,65,35
+tatsugiri-curly,3,80,"dragon, water",68,50,60,120,95,82
+annihilape,12,560,"fighting, ghost",110,115,80,50,90,90
+clodsire,18,2230,"poison, ground",130,75,60,45,100,20
+farigiraf,32,1600,"normal, psychic",120,90,70,110,70,60
+dudunsparce-two-segment,36,392,normal,125,100,80,85,75,55
+kingambit,20,1200,"dark, steel",100,135,120,60,85,50
+great-tusk,22,3200,"ground, fighting",115,131,131,53,53,87
+scream-tail,12,80,"fairy, psychic",115,65,99,65,115,111
+brute-bonnet,12,210,"grass, dark",111,127,99,79,99,55
+flutter-mane,14,40,"ghost, fairy",55,55,55,135,135,135
+slither-wing,32,920,"bug, fighting",85,135,79,85,105,81
+sandy-shocks,23,600,"electric, ground",85,81,97,121,85,101
+iron-treads,9,2400,"ground, steel",90,112,120,72,70,106
+iron-bundle,6,110,"ice, water",56,80,114,124,60,136
+iron-hands,18,3807,"fighting, electric",154,140,108,50,68,50
+iron-jugulis,13,1110,"dark, flying",94,80,86,122,80,108
+iron-moth,12,360,"fire, poison",80,70,60,140,110,110
+iron-thorns,16,3030,"rock, electric",100,134,110,70,84,72
+frigibax,5,170,"dragon, ice",65,75,45,35,45,55
+arctibax,8,300,"dragon, ice",90,95,66,45,65,62
+baxcalibur,21,2100,"dragon, ice",115,145,92,75,86,87
+gimmighoul,3,50,ghost,45,30,70,75,70,10
+gholdengo,12,300,"steel, ghost",87,60,95,133,91,84
+wo-chien,15,742,"dark, grass",85,85,100,95,135,70
+chien-pao,19,1522,"dark, ice",80,120,80,90,65,135
+ting-lu,27,6997,"dark, ground",155,110,125,55,80,45
+chi-yu,4,49,"dark, fire",55,80,80,135,120,100
+roaring-moon,20,3800,"dragon, dark",105,139,71,55,101,119
+iron-valiant,14,350,"fairy, fighting",74,130,90,120,60,116
+koraidon,25,3030,"fighting, dragon",100,135,115,85,100,135
+miraidon,35,2400,"electric, dragon",100,85,100,135,115,135
+walking-wake,35,2800,"water, dragon",99,83,91,125,83,109
+iron-leaves,15,1250,"grass, psychic",90,130,88,70,108,104
+dipplin,4,97,"grass, dragon",80,80,110,95,80,40
+poltchageist,1,11,"grass, ghost",40,45,45,74,54,50
+sinistcha,2,22,"grass, ghost",71,60,106,121,80,70
+okidogi,18,922,"poison, fighting",88,128,115,58,86,80
+munkidori,10,122,"poison, psychic",88,75,66,130,90,106
+fezandipiti,14,301,"poison, fairy",88,91,82,70,125,99
+ogerpon,12,398,grass,80,120,84,60,96,110
+archaludon,20,600,"steel, dragon",90,105,130,125,65,85
+hydrapple,18,930,"grass, dragon",106,80,110,120,80,44
+gouging-fire,35,5900,"fire, dragon",105,115,121,65,93,91
+raging-bolt,52,4800,"electric, dragon",125,73,91,137,89,75
+iron-boulder,15,1625,"rock, psychic",90,120,80,68,108,124
+iron-crown,16,1560,"steel, psychic",90,72,100,122,108,98
+terapagos,2,65,normal,90,65,85,65,85,60
+pecharunt,3,3,"poison, ghost",88,88,160,88,88,88
+deoxys-attack,17,608,psychic,50,180,20,180,20,150
+deoxys-defense,17,608,psychic,50,70,160,70,160,90
+deoxys-speed,17,608,psychic,50,95,90,95,90,180
+wormadam-sandy,5,65,"bug, ground",60,79,105,59,85,36
+wormadam-trash,5,65,"bug, steel",60,69,95,69,95,36
+shaymin-sky,4,52,"grass, flying",100,103,75,120,75,127
+giratina-origin,69,6500,"ghost, dragon",150,120,100,120,100,90
+rotom-heat,3,3,"electric, fire",50,65,107,105,107,86
+rotom-wash,3,3,"electric, water",50,65,107,105,107,86
+rotom-frost,3,3,"electric, ice",50,65,107,105,107,86
+rotom-fan,3,3,"electric, flying",50,65,107,105,107,86
+rotom-mow,3,3,"electric, grass",50,65,107,105,107,86
+castform-sunny,3,8,fire,70,70,70,70,70,70
+castform-rainy,3,8,water,70,70,70,70,70,70
+castform-snowy,3,8,ice,70,70,70,70,70,70
+basculin-blue-striped,10,180,water,70,92,65,80,55,98
+darmanitan-zen,13,929,"fire, psychic",105,30,105,140,105,55
+meloetta-pirouette,6,65,"normal, fighting",100,128,90,77,77,128
+tornadus-therian,14,630,flying,79,100,80,110,90,121
+thundurus-therian,30,610,"electric, flying",79,105,70,145,80,101
+landorus-therian,13,680,"ground, flying",89,145,90,105,80,91
+kyurem-black,33,3250,"dragon, ice",125,170,100,120,90,95
+kyurem-white,36,3250,"dragon, ice",125,120,90,170,100,95
+keldeo-resolute,14,485,"water, fighting",91,72,90,129,90,108
+meowstic-female,6,85,psychic,74,48,76,83,81,104
+aegislash-blade,17,530,"steel, ghost",60,140,50,140,50,60
+pumpkaboo-small,3,35,"ghost, grass",44,66,70,44,55,56
+pumpkaboo-large,5,75,"ghost, grass",54,66,70,44,55,46
+pumpkaboo-super,8,150,"ghost, grass",59,66,70,44,55,41
+gourgeist-small,7,95,"ghost, grass",55,85,122,58,75,99
+gourgeist-large,11,140,"ghost, grass",75,95,122,58,75,69
+gourgeist-super,17,390,"ghost, grass",85,100,122,58,75,54
+venusaur-mega,24,1555,"grass, poison",80,100,123,122,120,80
+charizard-mega-x,17,1105,"fire, dragon",78,130,111,130,85,100
+charizard-mega-y,17,1005,"fire, flying",78,104,78,159,115,100
+blastoise-mega,16,1011,water,79,103,120,135,115,78
+alakazam-mega,12,480,psychic,55,50,65,175,105,150
+gengar-mega,14,405,"ghost, poison",60,65,80,170,95,130
+kangaskhan-mega,22,1000,normal,105,125,100,60,100,100
+pinsir-mega,17,590,"bug, flying",65,155,120,65,90,105
+gyarados-mega,65,3050,"water, dark",95,155,109,70,130,81
+aerodactyl-mega,21,790,"rock, flying",80,135,85,70,95,150
+mewtwo-mega-x,23,1270,"psychic, fighting",106,190,100,154,100,130
+mewtwo-mega-y,15,330,psychic,106,150,70,194,120,140
+ampharos-mega,14,615,"electric, dragon",90,95,105,165,110,45
+scizor-mega,20,1250,"bug, steel",70,150,140,65,100,75
+heracross-mega,17,625,"bug, fighting",80,185,115,40,105,75
+houndoom-mega,19,495,"dark, fire",75,90,90,140,90,115
+tyranitar-mega,25,2550,"rock, dark",100,164,150,95,120,71
+blaziken-mega,19,520,"fire, fighting",80,160,80,130,80,100
+gardevoir-mega,16,484,"psychic, fairy",68,85,65,165,135,100
+mawile-mega,10,235,"steel, fairy",50,105,125,55,95,50
+aggron-mega,22,3950,steel,70,140,230,60,80,50
+medicham-mega,13,315,"fighting, psychic",60,100,85,80,85,100
+manectric-mega,18,440,electric,70,75,80,135,80,135
+banette-mega,12,130,ghost,64,165,75,93,83,75
+absol-mega,12,490,dark,65,150,60,115,60,115
+garchomp-mega,19,950,"dragon, ground",108,170,115,120,95,92
+lucario-mega,13,575,"fighting, steel",70,145,88,140,70,112
+abomasnow-mega,27,1850,"grass, ice",90,132,105,132,105,30
+floette-eternal,2,9,fairy,74,65,67,125,128,92
+latias-mega,18,520,"dragon, psychic",80,100,120,140,150,110
+latios-mega,23,700,"dragon, psychic",80,130,100,160,120,110
+swampert-mega,19,1020,"water, ground",100,150,110,95,110,70
+sceptile-mega,19,552,"grass, dragon",70,110,75,145,85,145
+sableye-mega,5,1610,"dark, ghost",50,85,125,85,115,20
+altaria-mega,15,206,"dragon, fairy",75,110,110,110,105,80
+gallade-mega,16,564,"psychic, fighting",68,165,95,65,115,110
+audino-mega,15,320,"normal, fairy",103,60,126,80,126,50
+sharpedo-mega,25,1303,"water, dark",70,140,70,110,65,105
+slowbro-mega,20,1200,"water, psychic",95,75,180,130,80,30
+steelix-mega,105,7400,"steel, ground",75,125,230,55,95,30
+pidgeot-mega,22,505,"normal, flying",83,80,80,135,80,121
+glalie-mega,21,3502,ice,80,120,80,120,80,100
+diancie-mega,11,278,"rock, fairy",50,160,110,160,110,110
+metagross-mega,25,9429,"steel, psychic",80,145,150,105,110,110
+kyogre-primal,98,4300,water,100,150,90,180,160,90
+groudon-primal,50,9997,"ground, fire",100,180,160,150,90,90
+rayquaza-mega,108,3920,"dragon, flying",105,180,100,180,100,115
+pikachu-rock-star,4,60,electric,35,55,40,50,50,90
+pikachu-belle,4,60,electric,35,55,40,50,50,90
+pikachu-pop-star,4,60,electric,35,55,40,50,50,90
+pikachu-phd,4,60,electric,35,55,40,50,50,90
+pikachu-libre,4,60,electric,35,55,40,50,50,90
+pikachu-cosplay,4,60,electric,35,55,40,50,50,90
+hoopa-unbound,65,4900,"psychic, dark",80,160,60,170,130,80
+camerupt-mega,25,3205,"fire, ground",70,120,100,145,105,20
+lopunny-mega,13,283,"normal, fighting",65,136,94,54,96,135
+salamence-mega,18,1126,"dragon, flying",95,145,130,120,90,120
+beedrill-mega,14,405,"bug, poison",65,150,40,15,80,145
+rattata-alola,3,38,"dark, normal",30,56,35,25,35,72
+raticate-alola,7,255,"dark, normal",75,71,70,40,80,77
+raticate-totem-alola,14,1050,"dark, normal",75,71,70,40,80,77
+pikachu-original-cap,4,60,electric,35,55,40,50,50,90
+pikachu-hoenn-cap,4,60,electric,35,55,40,50,50,90
+pikachu-sinnoh-cap,4,60,electric,35,55,40,50,50,90
+pikachu-unova-cap,4,60,electric,35,55,40,50,50,90
+pikachu-kalos-cap,4,60,electric,35,55,40,50,50,90
+pikachu-alola-cap,4,60,electric,35,55,40,50,50,90
+raichu-alola,7,210,"electric, psychic",60,85,50,95,85,110
+sandshrew-alola,7,400,"ice, steel",50,75,90,10,35,40
+sandslash-alola,12,550,"ice, steel",75,100,120,25,65,65
+vulpix-alola,6,99,ice,38,41,40,50,65,65
+ninetales-alola,11,199,"ice, fairy",73,67,75,81,100,109
+diglett-alola,2,10,"ground, steel",10,55,30,35,45,90
+dugtrio-alola,7,666,"ground, steel",35,100,60,50,70,110
+meowth-alola,4,42,dark,40,35,35,50,40,90
+persian-alola,11,330,dark,65,60,60,75,65,115
+geodude-alola,4,203,"rock, electric",40,80,100,30,30,20
+graveler-alola,10,1100,"rock, electric",55,95,115,45,45,35
+golem-alola,17,3160,"rock, electric",80,120,130,55,65,45
+grimer-alola,7,420,"poison, dark",80,80,50,40,50,25
+muk-alola,10,520,"poison, dark",105,105,75,65,100,50
+exeggutor-alola,109,4156,"grass, dragon",95,105,85,125,75,45
+marowak-alola,10,340,"fire, ghost",60,80,110,50,80,45
+greninja-battle-bond,15,400,"water, dark",72,95,67,103,71,122
+greninja-ash,15,400,"water, dark",72,145,67,153,71,132
+zygarde-10-power-construct,12,335,"dragon, ground",54,100,71,61,85,115
+zygarde-50-power-construct,50,3050,"dragon, ground",108,100,121,81,95,95
+zygarde-complete,45,6100,"dragon, ground",216,100,121,91,95,85
+gumshoos-totem,14,600,normal,88,110,60,55,60,45
+vikavolt-totem,26,1475,"bug, electric",77,70,90,145,75,43
+oricorio-pom-pom,6,34,"electric, flying",75,70,70,98,70,93
+oricorio-pau,6,34,"psychic, flying",75,70,70,98,70,93
+oricorio-sensu,6,34,"ghost, flying",75,70,70,98,70,93
+lycanroc-midnight,11,250,rock,85,115,75,55,75,82
+wishiwashi-school,82,786,water,45,140,130,140,135,30
+lurantis-totem,15,580,grass,70,105,90,80,90,45
+salazzle-totem,21,810,"poison, fire",68,64,60,111,60,117
+minior-orange-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-yellow-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-green-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-blue-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-indigo-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-violet-meteor,3,400,"rock, flying",60,60,100,60,100,60
+minior-red,3,3,"rock, flying",60,100,60,100,60,120
+minior-orange,3,3,"rock, flying",60,100,60,100,60,120
+minior-yellow,3,3,"rock, flying",60,100,60,100,60,120
+minior-green,3,3,"rock, flying",60,100,60,100,60,120
+minior-blue,3,3,"rock, flying",60,100,60,100,60,120
+minior-indigo,3,3,"rock, flying",60,100,60,100,60,120
+minior-violet,3,3,"rock, flying",60,100,60,100,60,120
+mimikyu-busted,2,7,"ghost, fairy",55,90,80,50,105,96
+mimikyu-totem-disguised,4,28,"ghost, fairy",55,90,80,50,105,96
+mimikyu-totem-busted,4,28,"ghost, fairy",55,90,80,50,105,96
+kommo-o-totem,24,2075,"dragon, fighting",75,110,125,100,105,85
+magearna-original,10,805,"steel, fairy",80,95,115,130,115,65
+pikachu-partner-cap,4,60,electric,35,55,40,50,50,90
+marowak-totem,17,980,"fire, ghost",60,80,110,50,80,45
+ribombee-totem,4,20,"bug, fairy",60,55,60,95,70,124
+rockruff-own-tempo,5,92,rock,45,65,40,30,40,60
+lycanroc-dusk,8,250,rock,75,117,65,55,65,110
+araquanid-totem,31,2175,"water, bug",68,70,92,50,132,42
+togedemaru-totem,6,130,"electric, steel",65,98,63,40,73,96
+necrozma-dusk,38,4600,"psychic, steel",97,157,127,113,109,77
+necrozma-dawn,42,3500,"psychic, ghost",97,113,109,157,127,77
+necrozma-ultra,75,2300,"psychic, dragon",97,167,97,167,97,129
+pikachu-starter,4,60,electric,45,80,50,75,60,120
+eevee-starter,3,65,normal,65,75,70,65,85,75
+pikachu-world-cap,4,60,electric,35,55,40,50,50,90
+meowth-galar,4,75,steel,50,65,55,40,40,40
+ponyta-galar,8,240,psychic,50,85,55,65,65,90
+rapidash-galar,17,800,"psychic, fairy",65,100,70,80,80,105
+slowpoke-galar,12,360,psychic,90,65,65,40,40,15
+slowbro-galar,16,705,"poison, psychic",95,100,95,100,70,30
+farfetchd-galar,8,420,fighting,52,95,55,58,62,55
+weezing-galar,30,160,"poison, fairy",65,90,120,85,70,60
+mr-mime-galar,14,568,"ice, psychic",50,65,65,90,90,100
+articuno-galar,17,509,"psychic, flying",90,85,85,125,100,95
+zapdos-galar,16,582,"fighting, flying",90,125,90,85,90,100
+moltres-galar,20,660,"dark, flying",90,85,90,100,125,90
+slowking-galar,18,795,"poison, psychic",95,65,80,110,110,30
+corsola-galar,6,5,ghost,60,55,100,65,100,30
+zigzagoon-galar,4,175,"dark, normal",38,30,41,30,41,60
+linoone-galar,5,325,"dark, normal",78,70,61,50,61,100
+darumaka-galar,7,400,ice,70,90,45,15,45,50
+darmanitan-galar-standard,17,1200,ice,105,140,55,30,55,95
+darmanitan-galar-zen,17,1200,"ice, fire",105,160,55,30,55,135
+yamask-galar,5,15,"ground, ghost",38,55,85,30,65,30
+stunfisk-galar,7,205,"ground, steel",109,81,99,66,84,32
+zygarde-10,12,335,"dragon, ground",54,100,71,61,85,115
+cramorant-gulping,8,180,"flying, water",70,85,55,85,95,85
+cramorant-gorging,8,180,"flying, water",70,85,55,85,95,85
+toxtricity-low-key,16,400,"electric, poison",75,98,70,114,70,75
+eiscue-noice,14,890,ice,75,80,70,65,50,130
+indeedee-female,9,280,"psychic, normal",70,55,65,95,105,85
+morpeko-hangry,3,30,"electric, dark",58,95,58,70,58,97
+zacian-crowned,28,3550,"fairy, steel",92,150,115,80,115,148
+zamazenta-crowned,29,7850,"fighting, steel",92,120,140,80,140,128
+eternatus-eternamax,1000,0,"poison, dragon",255,115,250,125,250,130
+urshifu-rapid-strike,19,1050,"fighting, water",100,130,100,63,60,97
+zarude-dada,18,700,"dark, grass",105,120,105,70,95,105
+calyrex-ice,24,8091,"psychic, ice",100,165,150,85,130,50
+calyrex-shadow,24,536,"psychic, ghost",100,85,80,165,100,150
+venusaur-gmax,240,10000,"grass, poison",80,82,83,100,100,80
+charizard-gmax,280,10000,"fire, flying",78,84,78,109,85,100
+blastoise-gmax,250,10000,water,79,83,100,85,105,78
+butterfree-gmax,170,10000,"bug, flying",60,45,50,90,80,70
+pikachu-gmax,210,10000,electric,35,55,40,50,50,90
+meowth-gmax,330,10000,normal,40,45,35,40,40,90
+machamp-gmax,250,10000,fighting,90,130,80,65,85,55
+gengar-gmax,200,10000,"ghost, poison",60,65,60,130,75,110
+kingler-gmax,190,10000,water,55,130,115,50,50,75
+lapras-gmax,240,10000,"water, ice",130,85,80,85,95,60
+eevee-gmax,180,10000,normal,55,55,50,45,65,55
+snorlax-gmax,350,10000,normal,160,110,65,65,110,30
+garbodor-gmax,210,10000,poison,80,95,82,60,82,75
+melmetal-gmax,250,10000,steel,135,143,143,80,65,34
+rillaboom-gmax,280,10000,grass,100,125,90,60,70,85
+cinderace-gmax,270,10000,fire,80,116,75,65,75,119
+inteleon-gmax,400,10000,water,70,85,65,125,65,120
+corviknight-gmax,140,10000,"flying, steel",98,87,105,53,85,67
+orbeetle-gmax,140,10000,"bug, psychic",60,45,110,80,120,90
+drednaw-gmax,240,10000,"water, rock",90,115,90,48,68,74
+coalossal-gmax,420,10000,"rock, fire",110,80,120,80,90,30
+flapple-gmax,240,10000,"grass, dragon",70,110,80,95,60,70
+appletun-gmax,240,10000,"grass, dragon",110,85,80,100,80,30
+sandaconda-gmax,220,10000,ground,72,107,125,65,70,71
+toxtricity-amped-gmax,240,10000,"electric, poison",75,98,70,114,70,75
+centiskorch-gmax,750,10000,"fire, bug",100,115,65,90,90,65
+hatterene-gmax,260,10000,"psychic, fairy",57,90,95,136,103,29
+grimmsnarl-gmax,320,10000,"dark, fairy",95,120,65,95,75,60
+alcremie-gmax,300,10000,fairy,65,60,75,110,121,64
+copperajah-gmax,230,10000,steel,122,130,69,80,69,30
+duraludon-gmax,430,10000,"steel, dragon",70,95,115,120,50,85
+urshifu-single-strike-gmax,290,10000,"fighting, dark",100,130,100,63,60,97
+urshifu-rapid-strike-gmax,260,10000,"fighting, water",100,130,100,63,60,97
+toxtricity-low-key-gmax,240,10000,"electric, poison",75,98,70,114,70,75
+growlithe-hisui,8,227,"fire, rock",60,75,45,65,50,55
+arcanine-hisui,20,1680,"fire, rock",95,115,80,95,80,90
+voltorb-hisui,5,130,"electric, grass",40,30,50,55,55,100
+electrode-hisui,12,710,"electric, grass",60,50,70,80,80,150
+typhlosion-hisui,16,698,"fire, ghost",73,84,78,119,85,95
+qwilfish-hisui,5,39,"dark, poison",65,95,85,55,55,85
+sneasel-hisui,9,270,"fighting, poison",55,95,55,35,75,115
+samurott-hisui,15,582,"water, dark",90,108,80,100,65,85
+lilligant-hisui,12,192,"grass, fighting",70,105,75,50,75,105
+zorua-hisui,7,125,"normal, ghost",35,60,40,85,40,70
+zoroark-hisui,16,730,"normal, ghost",55,100,60,125,60,110
+braviary-hisui,17,434,"psychic, flying",110,83,70,112,70,65
+sliggoo-hisui,7,685,"steel, dragon",58,75,83,83,113,40
+goodra-hisui,17,3341,"steel, dragon",80,100,100,110,150,60
+avalugg-hisui,14,2624,"ice, rock",95,127,184,34,36,38
+decidueye-hisui,16,370,"grass, fighting",88,112,80,95,95,60
+dialga-origin,70,8487,"steel, dragon",100,100,120,150,120,90
+palkia-origin,63,6590,"water, dragon",90,100,100,150,120,120
+basculin-white-striped,10,180,water,70,92,65,80,55,98
+basculegion-female,30,1100,"water, ghost",120,92,65,100,75,78
+enamorus-therian,16,480,"fairy, flying",74,115,110,135,100,46
+tauros-paldea-combat-breed,14,1150,fighting,75,110,105,30,70,100
+tauros-paldea-blaze-breed,14,850,"fighting, fire",75,110,105,30,70,100
+tauros-paldea-aqua-breed,14,1100,"fighting, water",75,110,105,30,70,100
+wooper-paldea,4,110,"poison, ground",55,45,45,25,25,15
+oinkologne-female,10,1200,normal,115,90,70,59,90,65
+dudunsparce-three-segment,45,474,normal,125,100,80,85,75,55
+palafin-hero,18,974,water,100,160,97,106,87,100
+maushold-family-of-three,3,28,normal,74,75,70,65,75,111
+tatsugiri-droopy,3,80,"dragon, water",68,50,60,120,95,82
+tatsugiri-stretchy,3,80,"dragon, water",68,50,60,120,95,82
+squawkabilly-blue-plumage,6,24,"normal, flying",82,96,51,45,51,92
+squawkabilly-yellow-plumage,6,24,"normal, flying",82,96,51,45,51,92
+squawkabilly-white-plumage,6,24,"normal, flying",82,96,51,45,51,92
+gimmighoul-roaming,1,10,ghost,45,30,25,75,45,80
+koraidon-limited-build,35,3030,"fighting, dragon",100,135,115,85,100,135
+koraidon-sprinting-build,35,3030,"fighting, dragon",100,135,115,85,100,135
+koraidon-swimming-build,35,3030,"fighting, dragon",100,135,115,85,100,135
+koraidon-gliding-build,35,3030,"fighting, dragon",100,135,115,85,100,135
+miraidon-low-power-mode,28,2400,"electric, dragon",100,85,100,135,115,135
+miraidon-drive-mode,28,2400,"electric, dragon",100,85,100,135,115,135
+miraidon-aquatic-mode,28,2400,"electric, dragon",100,85,100,135,115,135
+miraidon-glide-mode,28,2400,"electric, dragon",100,85,100,135,115,135
+ursaluna-bloodmoon,24,2900,"ground, normal",113,70,120,135,65,52
+ogerpon-wellspring-mask,12,398,"grass, water",80,120,84,60,96,110
+ogerpon-hearthflame-mask,12,398,"grass, fire",80,120,84,60,96,110
+ogerpon-cornerstone-mask,12,398,"grass, rock",80,120,84,60,96,110
+terapagos-terastal,3,160,normal,95,95,110,105,110,85
+terapagos-stellar,17,770,normal,160,105,110,130,110,85
+frillish-female,12,330,,0,0,0,0,0,0
+jellicent-female,22,1350,,0,0,0,0,0,0
