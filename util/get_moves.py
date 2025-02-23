@@ -17,7 +17,7 @@ from util.data_loader import DataLoader
 
 class FetchPokemonMoves:
 
-    def __init__(self, output_file="pokemon_moves_sample.csv"):
+    def __init__(self, output_file="pokemon_moves.csv"):
         # 解析するポケモンのリスト
         self.generations = range(1, 10)
         
