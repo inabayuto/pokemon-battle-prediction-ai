@@ -26,7 +26,6 @@ class FetchPokemonInfo:
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0"
         }
 
-
         # HTMLデータを取得
         request = urllib.request.Request(url, headers=headers)
         response = urllib.request.urlopen(request, context=ssl_context)

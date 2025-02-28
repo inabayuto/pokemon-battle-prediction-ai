@@ -16,10 +16,14 @@ class DataLoader:
             return self._load_pokemon_moves()
         elif filename == "pokemon_infos":
             return self._load_pokemon_infos()
+        elif filename == "battles_info":
+            return self._load_battles_info()
+        elif filename == "players_info":
+            return self._load_players_info()
         else:
             print("ファイルは存在しません")
 
-        return self._load()
+        # return self._load()
 
     def _load_pokemon_data(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_path, "pokemon_data.csv")
@@ -45,7 +49,6 @@ class DataLoader:
         
         return df
     
-
     def _load_pokemon_training(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_path, "pokemon_training.csv")
 
@@ -90,9 +93,22 @@ class DataLoader:
 
         return df
     
-
     def _load_pokemon_infos(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_path, "pokemon_infos.csv")
+
+        df = pd.read_csv(file_path)
+        
+        return df
+    
+    def _load_battles_info(self) -> pd.DataFrame:
+        file_path = os.path.join(self.data_path, "battles_info.csv")
+
+        df = pd.read_csv(file_path)
+        
+        return df
+    
+    def _load_players_info(self) -> pd.DataFrame:
+        file_path = os.path.join(self.data_path, "players_info.csv")
 
         df = pd.read_csv(file_path)
         
