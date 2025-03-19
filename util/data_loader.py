@@ -99,12 +99,13 @@ class DataLoader:
         df = pd.read_csv(file_path)
         
         return df
-    
+
+
     def _load_battles_info(self) -> pd.DataFrame:
         file_path = os.path.join(self.data_path, "battles_info.csv")
 
         df = pd.read_csv(file_path)
-        
+
         return df
     
     def _load_players_info(self) -> pd.DataFrame:

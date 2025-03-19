@@ -31,18 +31,25 @@ class FetchPokemonMoves:
         self.output_file = output_file
 
     def fetch_pokemon_moves(self, pokemon, generation):
+        """指定したポケモンと世代の技リストを取得"""
+
+        # SSL証明書発行
         ssl_context = ssl.create_default_context(cafile=certifi.where())
 
-        """指定したポケモンと世代の技リストを取得"""
+        # # URLの指定
         url = f"https://pokemondb.net/pokedex/{pokemon.lower()}/moves/{generation}"
+
+        # user-Agentを指定
         headers = {
             "User-Agent": "Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:47.0) Gecko/20100101 Firefox/47.0"
         }
 
         try:
-            # HTMLデータを取得
+            # URLリクエストとレスポンスを取得
             request = urllib.request.Request(url, headers=headers)
             response = urllib.request.urlopen(request, context=ssl_context)
+
+            # HTMLデータを取得
             html = response.read().decode("utf-8")
 
             # BeautifulSoupで解析
@@ -131,21 +138,19 @@ class FetchPokemonMoves:
             return None
     
     def load_pokemon_data(self):
-        # DataLoaderをインスタンス化してデータを読み込む
-        loader = DataLoader()
-        pokemon_infos = loader.load("pokemon_data")
-        pokemon_list = pokemon_infos['Name'].tolist()
-        self.pokemon_list = pokemon_list  # 必要なポケモンリストを設定
+        """DataLoaderをインスタンス化してデータを読み込む"""
+        loader = DataLoader() # インスタンス化
+        pokemon_infos = loader.load("pokemon_data") # ポケモンの基本情報データを読み込む
+        pokemon_list = pokemon_infos['Name'].tolist() # ポケモン名をリスト化
+        self.pokemon_list = pokemon_list # 必要なポケモンリストを設定
         return self.pokemon_list
 
-    # ポケモンごとに世代データを取得
-    def save_pokemon_moves(self):   
-        # ポケモンリストをロード
-        self.load_pokemon_data()
-        
-        # **データリセット**
-        self.all_moves_data = []  
+    def save_pokemon_moves(self):
+        """ポケモンごとに世代データを取得"""   
+        self.load_pokemon_data() # ポケモンリストをロード
+        self.all_moves_data = [] # 空のリストを作成
 
+        # 各ポケモン毎に技を取得
         for pokemon in tqdm(self.pokemon_list, desc="Pokémon List Progress"):
             for gen in self.generations:
                 moves = self.fetch_pokemon_moves(pokemon, gen)  # fetch_pokemon_movesをselfで呼び出す
@@ -156,7 +161,8 @@ class FetchPokemonMoves:
 
     
     def prepare_moves_data(self):
-        rows = []
+        """全ポケモンの技データを取得し、DataFrameとして保存"""
+        rows = [] # 空のリストを作成
         move_types = ["level_up_moves", "tm_moves", "hm_moves"]  # 識別用のカラムを追加
 
         for pokemon in self.all_moves_data:

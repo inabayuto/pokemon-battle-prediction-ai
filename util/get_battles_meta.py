@@ -118,8 +118,8 @@ class FetchBattlesMeta:
                 "Battleid": replay_id,
                 "Player1": players[0],
                 "Player2": players[1],
-                "Player1 Pokemon": player_1_pokemon_str,
-                "Player2 Pokemon": player_2_pokemon_str
+                "Player1_Pokemon": player_1_pokemon_str,
+                "Player2_Pokemon": player_2_pokemon_str
             })
 
         # CSVに保存
