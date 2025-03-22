@@ -16,10 +16,6 @@ class DataLoader:
             return self._load_pokemon_moves()
         elif filename == "pokemon_infos":
             return self._load_pokemon_infos()
-        elif filename == "battles_info":
-            return self._load_battles_info()
-        elif filename == "players_info":
-            return self._load_players_info()
         else:
             print("ファイルは存在しません")
 
