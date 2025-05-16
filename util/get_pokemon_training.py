@@ -26,7 +26,6 @@ class FetchPokemonTraining:
 
         """指定したポケモンのリストのトレーニングデータを取得"""
         all_pokemon_data = []
-
  
         url = f"https://pokemondb.net/pokedex/{pokemon.lower()}"
         headers = {

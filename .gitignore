@@ -3,3 +3,4 @@ util/__pycache__
 data
 data/pokemon_moves.csv
 pokemon.db
+.env

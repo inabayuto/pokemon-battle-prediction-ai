@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  jupyter:
+    build: .
+    volumes:
+      - .:/workspace
+    ports:
+      - "8889:8888"
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+    command: jupyter lab --ip=0.0.0.0 --allow-root --no-browser --NotebookApp.token='' --NotebookApp.password=''
